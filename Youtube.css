@@ -1,0 +1,55 @@
+.search {
+    display:block;
+}
+
+/* be like a woman  */
+.woman-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.woman-info {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-left: 10px;
+}
+.belikeawoman-preview {
+    width: 300px;
+    display: inline-block;
+    margin-right: 20px;
+    font-family: Roboto;
+    vertical-align: top;
+}
+.belikeawoman-title {
+    margin-top: 0px;
+}
+.woman-row {
+    margin-bottom: 1px;
+}
+
+/* volví para hablar de LESBIANAS */
+.danna-preview {
+    width: 300px;
+    display: inline-block;
+    font-family: Arial;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+/* Michael Jackson */
+.michael-preview {
+    width: 300px;
+    display: inline-block;
+    font-family: Arial;
+    padding-left: 0px;
+    vertical-align: top;
+}
+.michael-title {
+    width: 300px;
+}
+
