@@ -23,7 +23,7 @@ p {
 
 .belikeawoman,
 .danna,
-.michael {
+.michael, .melanie, .betty, .stateside {
     width: 100%;
     aspect-ratio: 16 / 9;
     object-fit: cover;
@@ -150,5 +150,127 @@ p {
     color: rgb(96, 96, 96);
 }
 .michael-channel {
+    margin-bottom: 4px;
+}
+
+/* melanie */
+.melanie-preview {
+    width: 100%;
+    display: block;
+    margin-right: 0px;
+    font-family: Roboto;
+}
+.melanie-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.melanie-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.melanie-info {
+    width: 200px;
+}
+.melanie-title {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 11px;
+}
+.melanie-row {
+    margin-bottom: 1px;
+}
+.melanie-channel,
+.melanie-stats {
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
+.melanie-channel {
+    margin-bottom: 4px;
+}
+
+
+/* betty */
+.betty-preview {
+    width: 100%;
+    display: block;
+    margin-right: 0px;
+    font-family: Roboto;
+}
+.betty-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.betty-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.betty-info {
+    width: 200px;
+}
+.betty-title {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 11px;
+}
+.betty-row {
+    margin-bottom: 1px;
+}
+.betty-channel,
+.betty-stats {
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
+.betty-channel {
+    margin-bottom: 4px;
+}
+
+
+/* stateside */
+.stateside-preview {
+    width: 100%;
+    display: block;
+    margin-right: 0px;
+    font-family: Roboto;
+}
+.stateside-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.stateside-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.stateside-info {
+    width: 200px;
+}
+.stateside-title {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 11px;
+}
+.stateside-row {
+    margin-bottom: 1px;
+}
+.stateside-channel,
+.stateside-stats {
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
+.stateside-channel {
     margin-bottom: 4px;
 }
