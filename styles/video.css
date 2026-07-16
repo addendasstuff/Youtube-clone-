@@ -12,6 +12,12 @@
     padding: 16px;
 }
 
+@media (max-width: 900px) {
+.videos-preview {
+    grid-template-columns: repeat(2, 1fr);
+}
+}
+
 .belikeawoman,
 .danna,
 .michael, .melanie, .betty, .stateside, .fatass, .song, .mega {
@@ -409,4 +415,17 @@
     padding-bottom: 4px;
     padding-top: 4px;
     border-radius: 2px;
+}
+
+a.belikeawoman-preview,
+a.danna-preview,
+a.michael-preview,
+a.melanie-preview,
+a.betty-preview,
+a.stateside-preview,
+a.fatass-preview,
+a.song-preview,
+a.mega-preview {
+    text-decoration: none;
+    color: inherit;
 }
